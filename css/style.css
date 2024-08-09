@@ -519,7 +519,7 @@ ul.some_agile_facts i {
 }
 /*--/middle--*/
 .w3ls-special-img.w3l-grid-1{
-    background:#000 url(../images/g1.jpg) no-repeat 0px 0px;
+    background:#000 url(../images/g1.png) no-repeat 0px 0px;
     min-height:400px;
     background-size: cover;
     text-align: center;
@@ -533,7 +533,7 @@ ul.some_agile_facts i {
     position: relative;	
 }
 .w3ls-special-img.w3l-grid-3{
-    background:#000 url(../images/g3.jpg) no-repeat 0px 0px;
+    background:#000 url(../images/g3.png) no-repeat 0px 0px;
     min-height:400px;
     background-size: cover;
     text-align: center;
@@ -1515,7 +1515,7 @@ p.b_label {
 	-ms-background-size:cover;
 }
 .wthree_services_grid2{
-	background:url(../images/g3.jpg) no-repeat 0px 0px;
+	background:url(../images/g3.png) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -1523,7 +1523,7 @@ p.b_label {
 	-ms-background-size:cover;
 }
 .wthree_services_grid3{
-	background:url(../images/g1.jpg) no-repeat 0px 0px;
+	background:url(../images/g1.png) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
